@@ -57,5 +57,3 @@ def mostrar():
     return info
 
 mostrar()
-
-a 
